@@ -1,7 +1,10 @@
 # 📚 Curso de Desarrollo Web en Entorno Servidor
 > **Descripción**: Curso de nivel básico/intermedio **en formato vídeo**, utilizando PHP nativo y el Framework Laravel.
 > En él, encontraréis:
-> - Una intuiciónb teorica sobre cómo qué son y cómo funcionan los servidores teórica a la arquitectura cliente-servidor, 
+> - Una intuición teorica sobre qué son y cómo funcionan los servidores. Además del funcionamiento de la arquitectura cliente-servidor,
+> - Un repaso a la programación en PHP
+> - Cómo se desarrolla una API REST haciendo uso de técnicas CSR y profundizando en unas buenas prácticas de la arquitectura MVC
+> - Integración de capa de acceso a datos, haciendo hincapié en estructurarlo bien en el MVC
 > Contenido actualizado en el curso 2023-2024
 
 <!-- ---
