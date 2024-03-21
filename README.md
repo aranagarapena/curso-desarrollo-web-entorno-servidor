@@ -1,5 +1,5 @@
 # 📚 Curso de Desarrollo Web en Entorno Servidor
-> **Descripción**: Curso de nivel básico/intermedio **en formato vídeo**, utilizando PHP nativo y el Framework Laravel
+> **Descripción**: Curso de nivel básico/intermedio **en formato vídeo**, utilizando PHP nativo y el Framework Laravel. Contenido actualizado en el curso 2023-2024
 
 <!-- ---
 
