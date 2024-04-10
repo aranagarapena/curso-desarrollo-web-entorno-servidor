@@ -38,7 +38,7 @@ Listado de herramientas, software, lecturas previas o cualquier otro recurso nec
 - 🎥 [Realizados por mi](https://youtube.com/playlist?list=PLZOstcbQvZh8GvJl5uhv_pP7JNnCZBl-h&si=RR0YaiIEYTBuu0Mt) 
 <!-- - 📚 [Contenido adicional relacionado](link) -->
 
-### 🔄 Módulo 4. Programación AJAX 
+### 🔄 Módulo 4. Integración de Bases de Datos en el Servidor 
 - 🎥 [Realizados por mi](https://youtube.com/playlist?list=PLZOstcbQvZh_TpiQ66k5L49UUJ1b4ZqvI&si=Ts1JwGfhyCxO3L2h) 
 <!-- - 📚 [Contenido adicional relacionado](link) -->
 
