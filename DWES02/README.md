@@ -73,4 +73,4 @@ Este es un espacio de aprendizaje colaborativo. Si tienes dudas, sugerencias o i
 
 ---
 -->
-⬅️ [UD Anterior](https://github.com/aranagarapena/curso-desarrollo-web-entorno-cliente/tree/main/DWEC01) | [Inicio](https://github.com/aranagarapena/curso-desarrollo-web-entorno-cliente/tree/main) | [UD Siguiente](https://github.com/aranagarapena/curso-desarrollo-web-entorno-cliente/tree/main/DWEC02) ➡️
+⬅️ [UD Anterior](https://github.com/aranagarapena/curso-desarrollo-web-entorno-servidor/tree/main/DWES01) | [Inicio](https://github.com/aranagarapena/curso-desarrollo-web-entorno-servidor) | [UD Siguiente](https://github.com/aranagarapena/curso-desarrollo-web-entorno-servidor/tree/main/DWES03) ➡️
