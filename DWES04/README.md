@@ -1,6 +1,6 @@
-# DWES01: Introducción al Desarrollo en Entorno Servidor
+# DWES04: Introducción al Desarrollo en Entorno Servidor
 
-![JavaScript Logo](https://rcabeza.gitbook.io/~gitbook/image?url=https:%2F%2F1922628619-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-legacy-files%2Fo%2Fassets%252F-LTSsTmsYkC1i_YUBBuZ%252F-LTSsmkeJmXwjIwKTgtN%252F-LTSstoA3_EsDsHoNKM8%252Fsoftware3capas.png%3Fgeneration=1544542200003510%26alt=media&width=768&dpr=1&quality=100&sign=a4bb6466e18db983c7b67083bbcff87ac3f811134295153835070c00e612fa5a)
+![JavaScript Logo](https://tic360.net/wp-content/uploads/2020/04/servidor-base-de-datos.jpg)
 
 <!-- Bienvenido/a a la Unidad Didáctica 1 del módulo de Desarrollo Web en Entorno Cliente (DWEC). En esta unidad, nos enfocaremos en introducir los conceptos básicos de JavaScript, el lenguaje de programación que nos permitirá añadir interactividad a nuestras páginas web. -->
 ---
@@ -23,7 +23,7 @@
 
 ## 📚 Contenidos
 #### Vídeos
-- [Realizados por mi](https://www.youtube.com/playlist?list=PLZOstcbQvZh_1WLqdkU5SowSVxyqeeF1I) 🙋‍♂️
+- [Realizados por mi](https://www.youtube.com/playlist?list=PLZOstcbQvZh_TpiQ66k5L49UUJ1b4ZqvI) 🙋‍♂️
 - Relacionados 👥
 #### Otros
 ---
