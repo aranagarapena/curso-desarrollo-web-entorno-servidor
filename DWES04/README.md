@@ -1,4 +1,4 @@
-# DWES04: Introducción al Desarrollo en Entorno Servidor
+# DWES04: Integración de Bases de Datos en el Servidor
 
 ![JavaScript Logo](https://tic360.net/wp-content/uploads/2020/04/servidor-base-de-datos.jpg)
 
